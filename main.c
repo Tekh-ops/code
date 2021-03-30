@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-struct main
+struct student
 {
-    /* data */
+    char name;
+    int id;
 };
 
 int main(int argc, char const *argv[])
